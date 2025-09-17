@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zel&#39;s Little Home</title>
-    <link>https://zelfan041210.github.io/</link>
+    <link>https://zelfan041210.github.io/Myblog/</link>
     <description>Recent content on Zel&#39;s Little Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://zelfan041210.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zelfan041210.github.io/Myblog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
