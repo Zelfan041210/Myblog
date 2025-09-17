@@ -6,6 +6,21 @@
     <description>Recent content in Tags on Zel&#39;s Little Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 17 Sep 2025 19:07:46 +0800</lastBuildDate>
     <atom:link href="https://zelfan041210.github.io/Myblog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogs</title>
+      <link>https://zelfan041210.github.io/Myblog/tags/blogs/</link>
+      <pubDate>Wed, 17 Sep 2025 19:07:46 +0800</pubDate>
+      <guid>https://zelfan041210.github.io/Myblog/tags/blogs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://zelfan041210.github.io/Myblog/tags/hugo/</link>
+      <pubDate>Wed, 17 Sep 2025 19:07:46 +0800</pubDate>
+      <guid>https://zelfan041210.github.io/Myblog/tags/hugo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
